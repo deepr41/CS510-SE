@@ -17,7 +17,7 @@ We have choosen to run `WolfJobs`. Below is the video of the project running.
 
 
 ### Project Members
-1. Deep Patel
+1. Deep Patel - 200537413, dmpatel7
 2. Deepak Rajendran - 200537951, drajend2
 3. Shafa Hassan - 200533994, shassa22
 4. Janhavi Pendse - 200535965, jspendse
