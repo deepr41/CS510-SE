@@ -1,6 +1,5 @@
 ## CS510 Software Engineering Project 1
 
-
 ### Project Rubric
 Below we have a table containing the projects along with their score. The project names are hyperlinked to the file containing the rubric of that project.
 
@@ -15,6 +14,7 @@ Below we have a table containing the projects along with their score. The projec
 ### Running the project
 We have choosen to run `WolfJobs`. Below is the video of the project running.
 
+[![Watch the video](https://img.youtube.com/vi/OVU-eKedhOQ/0.jpg)](https://youtu.be/OVU-eKedhOQ)
 
 ### Project Members
 1. Deep Patel - 200537413, dmpatel7
