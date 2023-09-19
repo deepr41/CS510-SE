@@ -16,6 +16,8 @@ We have choosen to run `WolfJobs`. Below is the video of the project running.
 
 [![Watch the video](https://img.youtube.com/vi/OVU-eKedhOQ/0.jpg)](https://youtu.be/OVU-eKedhOQ)
 
+Link: [https://youtu.be/OVU-eKedhOQ](https://youtu.be/OVU-eKedhOQ)
+
 ### Project Members
 1. Deep Patel - 200537413, dmpatel7
 2. Deepak Rajendran - 200537951, drajend2
